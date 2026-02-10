@@ -1,6 +1,6 @@
 # 🛋️ Link Vercel
 
-[![Vercel]](https://furniture-project-rho.vercel.app/)
+[Link Vercel](https://furniture-project-rho.vercel.app/)
 
 # React + Vite
 
